@@ -7,9 +7,7 @@ Esta é uma solução para o [desafio do cartão de visualização do blog no Fr
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--HTML
--CSS
--Git e Github
+HTML|CSS|Git e Github
 
 ## 📌 Layout 
 <p align="center">
